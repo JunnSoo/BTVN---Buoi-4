@@ -48,12 +48,12 @@ public class Main {
 				break;
 				
 			case 0:
-	            System.out.println("Đã thoát chương trình.");
-	            break;
-	
-	        default:
-	            System.out.println("Lựa chọn không hợp lệ. Vui lòng nhập từ 0 đến 4.");
-	            break;
+			        System.out.println("Đã thoát chương trình.");
+			        break;
+			
+			        default:
+			        System.out.println("Lựa chọn không hợp lệ. Vui lòng nhập từ 0 đến 4.");
+			       
 			}
 		} while(luaChon != 0);
 	}
